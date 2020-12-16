@@ -1,0 +1,110 @@
+{
+    "galeria": [{
+            "galeria_id": 1,
+            "lugar_id": 1,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "nombre": "Interior del museo de Casa de los venados",
+            "tipo": 1,
+            "url": "imagen.jpg"
+        },
+        
+        {
+            "galeria_id": 2,
+            "lugar_id": 2,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "nombre": "Interior del museo de Casa de los venados",
+            "tipo": 2,
+            "url": "url youtube"
+        },
+        
+        {
+            "galeria_id": 1,
+            "lugar_id": 3,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "nombre": "Interior de la Catedral de San Servacio",
+            "tipo": 1,
+            "url": "imagen.jpg"
+        },
+        
+        {
+            "galeria_id": 1,
+            "lugar_id": 4,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "nombre": "Interior de la Catedral de San Servacio",
+            "tipo": 2,
+            "url": "url youtube"
+        },
+        
+        {
+            "galeria_id": 1,
+            "lugar_id": 5,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "nombre": "Interior de Zací",
+            "tipo": 1,
+            "url": "imagen.jpg"
+        },
+
+        {
+            "galeria_id": 1,
+            "lugar_id": 6,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "nombre": "Interior de Zací",
+            "tipo": 2,
+            "url": "url youtube"
+        },
+
+        {
+            "galeria_id": 1,
+            "lugar_id": 7,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "nombre": "Interior de Popola",
+            "tipo": 1,
+            "url": "imagen.jpg"
+        },
+
+        {
+            "galeria_id": 1,
+            "lugar_id": 8,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "nombre": "Interior de Popola",
+            "tipo": 2,
+            "url": "url youtube"
+        },
+
+        {
+            "galeria_id": 1,
+            "lugar_id": 9,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "nombre": "Interior de Centro",
+            "tipo": 1,
+            "url": "imagen.jpg"
+        },
+
+        {
+            "galeria_id": 1,
+            "lugar_id": 10,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "nombre": "Interior de Centro",
+            "tipo": 2,
+            "url": "url youtube"
+        },
+
+        {
+            "galeria_id": 1,
+            "lugar_id": 11,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "nombre": "Interior de Francisco Cantón Rosado",
+            "tipo": 1,
+            "url": "imagen.jpg"
+        },
+
+        {
+            "galeria_id": 1,
+            "lugar_id": 12,
+            "descripcion": "descripcion descripcion descripcion descripcion",
+            "nombre": "Francisco Cantón Rosado",
+            "tipo": 2,
+            "url": "url youtube"
+        }
+    ]
+}

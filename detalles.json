@@ -1,0 +1,69 @@
+{
+    "detalles": [{
+        "detalle_id": 1,
+        "lugar_id": 1,
+        "nombre": "Casa de los venados",
+        "descripcion_larga": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
+        "horario_inicio": "3:00 p.m.",
+        "horario_fin": "3:00 p.m.",
+        "informacion_adicional": "loremipsumloremipsumloremipsumloremipsumloremipsumloremipsum",
+        "ubicacion": "conocido",
+        "ubicacion_gps": "14567895"
+        
+    },
+    {
+        "detalle_id": 2,
+        "lugar_id": 2,
+        "nombre": "Catedral de San Servacio",
+        "descripcion_larga": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
+        "horario_inicio": "3:00 p.m.",
+        "horario_fin": "3:00 p.m.",
+        "informacion_adicional": "loremipsumloremipsumloremipsumloremipsumloremipsumloremipsum",
+        "ubicacion": "conocido",
+        "ubicacion_gps": "14567895"
+    },
+    {
+        "detalle_id": 3,
+        "lugar_id": 3,
+        "nombre": "Zací",
+        "descripcion_larga": "descripcion larga descripcion larga descripcion larga",
+        "horario_inicio": "3:00 p.m.",
+        "horario_fin": "3:00 p.m.",
+        "informacion_adicional": "loremipsumloremipsumloremipsumloremipsumloremipsumloremipsum",
+        "ubicacion": "conocido",
+        "ubicacion_gps": "14567895"
+    },
+    {
+        "detalle_id": 4,
+        "lugar_id": 4,
+        "nombre": "Popola",
+        "descripcion_larga": "descripcion larga descripcion larga descripcion larga",
+        "horario_inicio": "3:00 p.m.",
+        "horario_fin": "3:00 p.m.",
+        "informacion_adicional": "loremipsumloremipsumloremipsumloremipsumloremipsumloremipsum",
+        "ubicacion": "conocido",
+        "ubicacion_gps": "14567895"
+    },
+    {
+        "detalle_id": 5,
+        "lugar_id": 5,
+        "nombre": "Centro",
+        "descripcion_larga": "descripcion larga descripcion larga descripcion larga",
+        "horario_inicio": "3:00 p.m.",
+        "horario_fin": "3:00 p.m.",
+        "informacion_adicional": "loremipsumloremipsumloremipsumloremipsumloremipsumloremipsum",
+        "ubicacion": "conocido",
+        "ubicacion_gps": "14567895"
+    },
+    {
+        "detalle_id": 6,
+        "lugar_id": 6,
+        "nombre": "Francisco Cantón Rosado",
+        "descripcion_larga": "descripcion larga descripcion larga descripcion larga",
+        "horario_inicio": "3:00 p.m.",
+        "horario_fin": "3:00 p.m.",
+        "informacion_adicional": "loremipsumloremipsumloremipsumloremipsumloremipsumloremipsum",
+        "ubicacion": "conocido",
+        "ubicacion_gps": "14567895"
+    }]    
+}
