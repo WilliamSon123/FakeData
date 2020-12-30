@@ -1,45 +1,36 @@
+[{
+    "categoria_id": 1,
+    "nombre": "Museos",
+    "descripcion": "Valladolid",
+    "imagen": "https://descubro.mx/wp-content/uploads/2016/08/art_img_53dbb03b1bc4675183b73deb53688c3d.jpg"
+},
 {
-	"categorias": [{
-			"categoria_id": 1,
-			"nombre": "Museos",
-			"categoria_padre": 0,
-			"descripcion": "Valladolid",
-			"imagen": "https://descubro.mx/wp-content/uploads/2016/08/art_img_53dbb03b1bc4675183b73deb53688c3d.jpg"
-		},
-		{
-			"categoria_id": 2,
-			"nombre": "Iglesias",
-			"categoria_padre": 0,
-			"descripcion": "Iglesias",
-			"imagen": "https://blog.xcaret.com/es/wp-content/uploads/2019/01/Las-5-iglesias-m%C3%A1s-hermosas-de-Yucat%C3%A1n.jpg"			
-		},
-		{
-			"categoria_id": 3,
-			"nombre": "Cenotes",
-			"categoria_padre": 0,
-			"descripcion": "Cenotes",
-			"imagen": "https://miviaje.com/wp-content/uploads/2018/07/cenote-suytun.jpg"			
-		},
-		{
-			"categoria_id": 4,
-			"nombre": "Pueblos Mayas",
-			"categoria_padre": 0,
-			"descripcion": "Pueblos",
-			"imagen": "http://www.campeche.com.mx/wp-content/uploads/2016/09/mayas-poblacion-65432.jpg"			
-		},
-		{
-			"categoria_id": 5,
-			"nombre": "Ciudad",
-			"categoria_padre": 0,
-			"descripcion": "Naturaleza",
-			"imagen": "https://www.guatemala.com/fotos/2019/02/Hoy-hace-29-anos-fue-creada-la-Reserva-de-la-Biosfera-Maya-885x500.jpg"			
-		},
-		{
-			"categoria_id": 6,
-			"nombre": "Parques",
-			"categoria_padre": 0,
-			"descripcion": "Parques",
-			"imagen": "https://www.yucatanalamano.com/wp-content/uploads/2019/10/Parque-eulogio-rosado-merida-yucatan.jpg"			
-		}
-	]
-}
+    "categoria_id": 2,
+    "nombre": "Iglesias",
+    "descripcion": "Iglesias",
+    "imagen": "https://blog.xcaret.com/es/wp-content/uploads/2019/01/Las-5-iglesias-m%C3%A1s-hermosas-de-Yucat%C3%A1n.jpg"
+},
+{
+    "categoria_id": 3,
+    "nombre": "Cenotes",
+    "descripcion": "Cenotes",
+    "imagen": "https://miviaje.com/wp-content/uploads/2018/07/cenote-suytun.jpg"
+},
+{
+    "categoria_id": 4,
+    "nombre": "Pueblos Mayas",
+    "descripcion": "Pueblos",
+    "imagen": "http://www.campeche.com.mx/wp-content/uploads/2016/09/mayas-poblacion-65432.jpg"
+},
+{
+    "categoria_id": 5,
+    "nombre": "Ciudad",
+    "descripcion": "Naturaleza",
+    "imagen": "https://www.guatemala.com/fotos/2019/02/Hoy-hace-29-anos-fue-creada-la-Reserva-de-la-Biosfera-Maya-885x500.jpg"
+},
+{
+    "categoria_id": 6,
+    "nombre": "Parques",
+    "descripcion": "Parques",
+    "imagen": "https://www.yucatanalamano.com/wp-content/uploads/2019/10/Parque-eulogio-rosado-merida-yucatan.jpg"
+}]
