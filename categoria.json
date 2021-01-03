@@ -36,6 +36,12 @@
 },
 {
     "categoria_id": 7,
+    "nombre": "Alondra",
+    "descripcion": "Parques",
+    "imagen": "https://www.yucatanalamano.com/wp-content/uploads/2019/10/Parque-eulogio-rosado-merida-yucatan.jpg"
+},
+{
+    "categoria_id": 8,
     "nombre": "Parques",
     "descripcion": "Parques",
     "imagen": "https://www.yucatanalamano.com/wp-content/uploads/2019/10/Parque-eulogio-rosado-merida-yucatan.jpg"
