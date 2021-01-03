@@ -35,12 +35,6 @@
     "imagen": "https://www.iberdrola.com/wcorp/gc/prod/es_ES/comunicacion/glaciares_mult_1_res/glaciares_746x419.jpg"
 },
 {
-    "categoria_id": 7,
-    "nombre": "Alondra",
-    "descripcion": "Parques",
-    "imagen": "https://www.yucatanalamano.com/wp-content/uploads/2019/10/Parque-eulogio-rosado-merida-yucatan.jpg"
-},
-{
     "categoria_id": 8,
     "nombre": "Parques",
     "descripcion": "Parques",
