@@ -1,5 +1,5 @@
-{
-    "detalles": [{
+[
+    {
         "detalle_id": 1,
         "lugar_id": 1,
         "nombre": "Casa de los venados",
@@ -9,7 +9,7 @@
         "informacion_adicional": "loremipsumloremipsumloremipsumloremipsumloremipsumloremipsum",
         "ubicacion": "conocido",
         "ubicacion_gps": "14567895"
-        
+
     },
     {
         "detalle_id": 2,
@@ -65,5 +65,5 @@
         "informacion_adicional": "loremipsumloremipsumloremipsumloremipsumloremipsumloremipsum",
         "ubicacion": "conocido",
         "ubicacion_gps": "14567895"
-    }]    
-}
+    }
+]
