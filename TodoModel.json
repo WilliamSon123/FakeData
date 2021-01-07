@@ -1,7 +1,6 @@
 [{
     "categoria_id": 1,
     "nombre": "Museos",
-    "categoria_padre": 0,
     "descripcion": "Valladolid",
     "imagen": "https://descubro.mx/wp-content/uploads/2016/08/art_img_53dbb03b1bc4675183b73deb53688c3d.jpg",
     "lugares": 
@@ -12,7 +11,7 @@
         "descripcion_corta": "Uno de los museos más cool y más extravagantes",
         "imagen_url": "https://media-cdn.tripadvisor.com/media/photo-s/10/b8/96/85/main-courtyard.jpg",
         "detalles": 
-        [{
+        {
             "detalle_id": 1,
             "lugares_id": 1,
             "nombre": "Casa de los venados",
@@ -26,18 +25,131 @@
             [{
                 "recurso_id": 1,
                 "detalle_id": 1,
-                "nombre": "Casa de los venados 1",
+                "nombre": "Casa de los venados",
                 "descripcion": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
-                "url": "https://everywhereonce.files.wordpress.com/2016/01/casa-de-los-venados-6.jpg",
-                "tipo": "imagen"
+                "url": "3:00 p.m.",
+                "tipo": "3:00 p.m."
             },{
                 "recurso_id": 2,
                 "detalle_id": 1,
-                "nombre": "Casa de los venados 2",
+                "nombre": "Casa de los venados",
                 "descripcion": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
-                "url": "https://media-cdn.tripadvisor.com/media/photo-s/01/d0/98/0a/casa-de-los-venados.jpg",
-                "tipo": "imagen"
+                "url": "3:00 p.m.",
+                "tipo": "3:00 p.m."
             }]
-        }]
+        }
+    },
+    {
+        "lugares_id": 2,
+        "categoria_id": 1,
+        "nombre": "Casa de los Venados",
+        "descripcion_corta": "Uno de los museos más cool y más extravagantes",
+        "imagen_url": "https://media-cdn.tripadvisor.com/media/photo-s/10/b8/96/85/main-courtyard.jpg",
+        "detalles": 
+        {
+            "detalle_id": 2,
+            "lugares_id": 2,
+            "nombre": "Casa de los venados",
+            "descripcion_larga": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
+            "horario_inicio": "3:00 p.m.",
+            "horario_fin": "3:00 p.m.",
+            "informacion_adicional": "loremipsumloremipsumloremipsumloremipsumloremipsumloremipsum",
+            "ubicacion": "conocido",
+            "ubicacion_gps": "14567895",
+            "recursos": 
+            [{
+                "recurso_id": 3,
+                "detalle_id": 2,
+                "nombre": "Casa de los venados",
+                "descripcion": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
+                "url": "3:00 p.m.",
+                "tipo": "3:00 p.m."
+            },{
+                "recurso_id": 4,
+                "detalle_id": 2,
+                "nombre": "Casa de los venados",
+                "descripcion": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
+                "url": "3:00 p.m.",
+                "tipo": "3:00 p.m."
+            }]
+        }
+    }]
+},
+{
+    "categoria_id": 2,
+    "nombre": "Museos",
+    "descripcion": "Valladolid",
+    "imagen": "https://descubro.mx/wp-content/uploads/2016/08/art_img_53dbb03b1bc4675183b73deb53688c3d.jpg",
+    "lugares": 
+    [{
+        "lugares_id": 3,
+        "categoria_id": 2,
+        "nombre": "Casa de los Venados",
+        "descripcion_corta": "Uno de los museos más cool y más extravagantes",
+        "imagen_url": "https://media-cdn.tripadvisor.com/media/photo-s/10/b8/96/85/main-courtyard.jpg",
+        "detalles": 
+        {
+            "detalle_id": 3,
+            "lugares_id": 3,
+            "nombre": "Casa de los venados",
+            "descripcion_larga": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
+            "horario_inicio": "3:00 p.m.",
+            "horario_fin": "3:00 p.m.",
+            "informacion_adicional": "loremipsumloremipsumloremipsumloremipsumloremipsumloremipsum",
+            "ubicacion": "conocido",
+            "ubicacion_gps": "14567895",
+            "recursos": 
+            [{
+                "recurso_id": 5,
+                "detalle_id": 3,
+                "nombre": "Casa de los venados",
+                "descripcion": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
+                "url": "3:00 p.m.",
+                "tipo": "3:00 p.m."
+            },{
+                "recurso_id": 6,
+                "detalle_id": 3,
+                "nombre": "Casa de los venados",
+                "descripcion": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
+                "url": "3:00 p.m.",
+                "tipo": "3:00 p.m."
+            }]
+        }
+    },
+    {
+        "lugares_id": 4,
+        "categoria_id": 2,
+        "nombre": "Casa de los Venados",
+        "descripcion_corta": "Uno de los museos más cool y más extravagantes",
+        "imagen_url": "https://media-cdn.tripadvisor.com/media/photo-s/10/b8/96/85/main-courtyard.jpg",
+        "detalles": 
+        {
+            "detalle_id": 4,
+            "lugares_id": 4,
+            "nombre": "Casa de los venados",
+            "descripcion_larga": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
+            "horario_inicio": "3:00 p.m.",
+            "horario_fin": "3:00 p.m.",
+            "informacion_adicional": "loremipsumloremipsumloremipsumloremipsumloremipsumloremipsum",
+            "ubicacion": "conocido",
+            "ubicacion_gps": "14567895",
+            "recursos": 
+            [{
+                "recurso_id": 7,
+                "detalle_id": 4,
+                "nombre": "Casa de los venados",
+                "descripcion": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
+                "url": "3:00 p.m.",
+                "tipo": "3:00 p.m."
+            },
+            {
+                "recurso_id": 8,
+                "detalle_id": 4,
+                "nombre": "Casa de los venados",
+                "descripcion": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
+                "url": "3:00 p.m.",
+                "tipo": "3:00 p.m."
+            }]
+        }
     }]
 }]
