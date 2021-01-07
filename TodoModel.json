@@ -42,14 +42,14 @@
     {
         "lugares_id": 2,
         "categoria_id": 1,
-        "nombre": "Casa de los Venados",
-        "descripcion_corta": "Uno de los museos más cool y más extravagantes",
-        "imagen_url": "https://media-cdn.tripadvisor.com/media/photo-s/10/b8/96/85/main-courtyard.jpg",
+        "nombre": "San Roque",
+        "descripcion_corta": "La parte más interesante son los enormes murales que representan la historia maya",
+        "imagen_url": "https://valladolidmx.travel/wp-content/uploads/2019/11/fotos12-2.jpg",
         "detalles": 
         {
             "detalle_id": 2,
             "lugares_id": 2,
-            "nombre": "Casa de los venados",
+            "nombre": "San Roque",
             "descripcion_larga": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
             "horario_inicio": "3:00 p.m.",
             "horario_fin": "3:00 p.m.",
@@ -60,14 +60,14 @@
             [{
                 "recurso_id": 3,
                 "detalle_id": 2,
-                "nombre": "Casa de los venados",
+                "nombre": "San Roque",
                 "descripcion": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
                 "url": "3:00 p.m.",
                 "tipo": "3:00 p.m."
             },{
                 "recurso_id": 4,
                 "detalle_id": 2,
-                "nombre": "Casa de los venados",
+                "nombre": "San Roque",
                 "descripcion": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
                 "url": "3:00 p.m.",
                 "tipo": "3:00 p.m."
@@ -77,21 +77,21 @@
 },
 {
     "categoria_id": 2,
-    "nombre": "Museos",
+    "nombre": "Iglesias",
     "descripcion": "Valladolid",
-    "imagen": "https://descubro.mx/wp-content/uploads/2016/08/art_img_53dbb03b1bc4675183b73deb53688c3d.jpg",
+    "imagen": "https://blog.xcaret.com/es/wp-content/uploads/2019/01/Las-5-iglesias-m%C3%A1s-hermosas-de-Yucat%C3%A1n.jpg",
     "lugares": 
     [{
         "lugares_id": 3,
         "categoria_id": 2,
-        "nombre": "Casa de los Venados",
-        "descripcion_corta": "Uno de los museos más cool y más extravagantes",
-        "imagen_url": "https://media-cdn.tripadvisor.com/media/photo-s/10/b8/96/85/main-courtyard.jpg",
+        "nombre": "Catedral de San Servacio",
+        "descripcion_corta": "descripcion corta descripcion corta descripcion corta",
+        "imagen_url": "https://s3-media4.fl.yelpcdn.com/bphoto/htBpICqC2d8mXNzpuaQX7Q/o.jpg",
         "detalles": 
         {
             "detalle_id": 3,
             "lugares_id": 3,
-            "nombre": "Casa de los venados",
+            "nombre": "Catedral de San Servacio",
             "descripcion_larga": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
             "horario_inicio": "3:00 p.m.",
             "horario_fin": "3:00 p.m.",
@@ -102,14 +102,14 @@
             [{
                 "recurso_id": 5,
                 "detalle_id": 3,
-                "nombre": "Casa de los venados",
+                "nombre": "Catedral de San Servacio",
                 "descripcion": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
                 "url": "3:00 p.m.",
                 "tipo": "3:00 p.m."
             },{
                 "recurso_id": 6,
                 "detalle_id": 3,
-                "nombre": "Casa de los venados",
+                "nombre": "Catedral de San Servacio",
                 "descripcion": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
                 "url": "3:00 p.m.",
                 "tipo": "3:00 p.m."
@@ -119,14 +119,14 @@
     {
         "lugares_id": 4,
         "categoria_id": 2,
-        "nombre": "Casa de los Venados",
-        "descripcion_corta": "Uno de los museos más cool y más extravagantes",
-        "imagen_url": "https://media-cdn.tripadvisor.com/media/photo-s/10/b8/96/85/main-courtyard.jpg",
+        "nombre": "La Candelaria",
+        "descripcion_corta": "descripcion corta descripcion corta descripcion corta",
+        "imagen_url": "https://thesimplytravelblog.files.wordpress.com/2015/07/7051.jpg",
         "detalles": 
         {
             "detalle_id": 4,
             "lugares_id": 4,
-            "nombre": "Casa de los venados",
+            "nombre": "La Candelaria",
             "descripcion_larga": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
             "horario_inicio": "3:00 p.m.",
             "horario_fin": "3:00 p.m.",
@@ -137,7 +137,7 @@
             [{
                 "recurso_id": 7,
                 "detalle_id": 4,
-                "nombre": "Casa de los venados",
+                "nombre": "La Candelaria",
                 "descripcion": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
                 "url": "3:00 p.m.",
                 "tipo": "3:00 p.m."
@@ -145,7 +145,7 @@
             {
                 "recurso_id": 8,
                 "detalle_id": 4,
-                "nombre": "Casa de los venados",
+                "nombre": "La Candelaria",
                 "descripcion": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
                 "url": "3:00 p.m.",
                 "tipo": "3:00 p.m."
