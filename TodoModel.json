@@ -72,40 +72,6 @@
                 "url": "3:00 p.m.",
                 "tipo": "3:00 p.m."
             }]
-        },
-        {
-        "lugares_id": 3,
-        "categoria_id": 1,
-        "nombre": "San Roque",
-        "descripcion_corta": "La parte más interesante son los enormes murales que representan la historia maya",
-        "imagen_url": "https://valladolidmx.travel/wp-content/uploads/2019/11/fotos12-2.jpg",
-        "detalles": 
-        {
-            "detalle_id": 2,
-            "lugares_id": 2,
-            "nombre": "San Roque",
-            "descripcion_larga": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
-            "horario_inicio": "3:00 p.m.",
-            "horario_fin": "3:00 p.m.",
-            "informacion_adicional": "loremipsumloremipsumloremipsumloremipsumloremipsumloremipsum",
-            "ubicacion": "conocido",
-            "ubicacion_gps": "14567895",
-            "recursos": 
-            [{
-                "recurso_id": 3,
-                "detalle_id": 2,
-                "nombre": "San Roque",
-                "descripcion": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
-                "url": "3:00 p.m.",
-                "tipo": "3:00 p.m."
-            },{
-                "recurso_id": 4,
-                "detalle_id": 2,
-                "nombre": "San Roque",
-                "descripcion": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
-                "url": "3:00 p.m.",
-                "tipo": "3:00 p.m."
-            }]
         }
     }]
 },
