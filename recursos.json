@@ -1,110 +1,33 @@
 {
-    "galeria": [{
-            "galeria_id": 1,
-            "lugar_id": 1,
+        "detalle_id": 1,
+        "lugar_id": 1,
+        "nombre": "Casa de los venados",
+        "descripcion_larga": "descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga descripcion larga",
+        "horario_inicio": "3:00 p.m.",
+        "horario_fin": "3:00 p.m.",
+        "informacion_adicional": "loremipsumloremipsumloremipsumloremipsumloremipsumloremipsum",
+        "ubicacion": "conocido",
+        "ubicacion_gps": "14567895",
+        "recurso": [{
+            "recurso_id": 1,
+            "detalle_id": 1,
             "descripcion": "descripcion descripcion descripcion descripcion",
             "nombre": "Interior del museo de Casa de los venados",
             "tipo": 1,
-            "url": "imagen.jpg"
-        },
-        
-        {
-            "galeria_id": 2,
-            "lugar_id": 2,
+            "url": "https://media-cdn.tripadvisor.com/media/photo-s/10/b8/96/85/main-courtyard.jpg"
+        },{
+            "recurso_id": 2,
+            "detalle_id": 1,
             "descripcion": "descripcion descripcion descripcion descripcion",
             "nombre": "Interior del museo de Casa de los venados",
-            "tipo": 2,
-            "url": "url youtube"
-        },
-        
-        {
-            "galeria_id": 1,
-            "lugar_id": 3,
-            "descripcion": "descripcion descripcion descripcion descripcion",
-            "nombre": "Interior de la Catedral de San Servacio",
             "tipo": 1,
-            "url": "imagen.jpg"
-        },
-        
-        {
-            "galeria_id": 1,
-            "lugar_id": 4,
+            "url": "https://valladolidmx.travel/wp-content/uploads/2019/11/fotos12-2.jpg"
+        },{
+            "recurso_id": 3,
+            "detalle_id": 1,
             "descripcion": "descripcion descripcion descripcion descripcion",
-            "nombre": "Interior de la Catedral de San Servacio",
-            "tipo": 2,
-            "url": "url youtube"
-        },
-        
-        {
-            "galeria_id": 1,
-            "lugar_id": 5,
-            "descripcion": "descripcion descripcion descripcion descripcion",
-            "nombre": "Interior de Zací",
+            "nombre": "Interior del museo de Casa de los venados",
             "tipo": 1,
-            "url": "imagen.jpg"
-        },
-
-        {
-            "galeria_id": 1,
-            "lugar_id": 6,
-            "descripcion": "descripcion descripcion descripcion descripcion",
-            "nombre": "Interior de Zací",
-            "tipo": 2,
-            "url": "url youtube"
-        },
-
-        {
-            "galeria_id": 1,
-            "lugar_id": 7,
-            "descripcion": "descripcion descripcion descripcion descripcion",
-            "nombre": "Interior de Popola",
-            "tipo": 1,
-            "url": "imagen.jpg"
-        },
-
-        {
-            "galeria_id": 1,
-            "lugar_id": 8,
-            "descripcion": "descripcion descripcion descripcion descripcion",
-            "nombre": "Interior de Popola",
-            "tipo": 2,
-            "url": "url youtube"
-        },
-
-        {
-            "galeria_id": 1,
-            "lugar_id": 9,
-            "descripcion": "descripcion descripcion descripcion descripcion",
-            "nombre": "Interior de Centro",
-            "tipo": 1,
-            "url": "imagen.jpg"
-        },
-
-        {
-            "galeria_id": 1,
-            "lugar_id": 10,
-            "descripcion": "descripcion descripcion descripcion descripcion",
-            "nombre": "Interior de Centro",
-            "tipo": 2,
-            "url": "url youtube"
-        },
-
-        {
-            "galeria_id": 1,
-            "lugar_id": 11,
-            "descripcion": "descripcion descripcion descripcion descripcion",
-            "nombre": "Interior de Francisco Cantón Rosado",
-            "tipo": 1,
-            "url": "imagen.jpg"
-        },
-
-        {
-            "galeria_id": 1,
-            "lugar_id": 12,
-            "descripcion": "descripcion descripcion descripcion descripcion",
-            "nombre": "Francisco Cantón Rosado",
-            "tipo": 2,
-            "url": "url youtube"
-        }
-    ]
-}
+            "url": "https://s3-media4.fl.yelpcdn.com/bphoto/htBpICqC2d8mXNzpuaQX7Q/o.jpg"
+        }]
+    }
